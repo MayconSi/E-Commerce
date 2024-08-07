@@ -1,0 +1,143 @@
+[
+    {
+        "nome": "NIKE",
+        "descricao": "Sapatilhas Nike Free Nike Air Max, sapatos vermelhos, brancos.",
+        "valor": 100,
+        "img": "../NIKE PRODUTOS/sapato1.png",
+        "button_class": "buy-1"
+    },
+    {
+        "nome": "NIKE",
+        "descricao": "Tênis Nike Free Air Force, Sapatos Nike.",
+        "valor": 100,
+        "img": "../NIKE PRODUTOS/sapato2.png",
+        "button_class": "buy-1"
+    },
+    {
+        "nome": "NIKE",
+        "descricao": "tênis de corrida Nike azul e laranja não pareados.",
+        "valor": 100,
+        "img": "../NIKE PRODUTOS/sapato3.png",
+        "button_class": "buy-1"
+    },
+    {
+        "nome": "NIKE",
+        "descricao": "sapato verde Nike Air Max, tênis Nike.",
+        "valor": 100,
+        "img": "../NIKE PRODUTOS/sapato4.png",
+        "button_class": "buy-1"
+
+    },
+    {
+        "nome": "PUMA",
+        "descricao": "Chuteira, Puma, Chuteiras de Futebol Puma.",
+        "valor": 100,
+        "img": "../PUMA PRODUTOS/sapato1 (2).png",
+        "button_class": "buy-2"
+    },
+    {
+        "nome": "PUMA",
+        "descricao": "Sapatilhas Sapato Puma Corrida Corrida, Sapatos de fitness.",
+        "valor": 100,
+        "img": "../PUMA PRODUTOS/sapato2.png",
+        "button_class": "buy-2"
+    },
+    {
+        "nome": "PUMA",
+        "descricao": "Sapatilhas de skate Sapatilhas Puma Rocker.",
+        "valor": 100,
+        "img": "../PUMA PRODUTOS/sapato3.png",
+        "button_class": "buy-2"
+    },
+    {
+        "nome": "PUMA",
+        "descricao": "Sapatilhas Sapato Puma Corrida Corrida, Sapatos de fitness.",
+        "valor": 100,
+        "img": "../PUMA PRODUTOS/sapato2.png",
+        "button_class": "buy-2"
+    },
+    {
+        "nome": "ADIDAS",
+        "descricao": "Produtor musical de sapato de lona de tênis Adidas.",
+        "valor": 100,
+        "img": "../ADIDAS PRODUTOS/1.png",
+        "button_class": "buy-3"
+    },
+    {
+        "nome": "ADIDAS",
+        "descricao": "Adidas sapatilhas, sapatos femininos, roxo, branco, violeta.",
+        "valor": 100,
+        "img": "../ADIDAS PRODUTOS/2.png",
+        "button_class": "buy-3"
+    },
+    {
+        "nome": "ADIDAS",
+        "descricao": "Sapatilhas Adidas Cricket Track spikes, sapatos masculinos.",
+        "valor": 100,
+        "img": "../ADIDAS PRODUTOS/3.png",
+        "button_class": "buy-3"
+    },
+    {
+        "nome": "ADIDAS",
+        "descricao": "Crianças, Tênis, Sapato, Adidas.",
+        "valor": 100,
+        "img": "../ADIDAS PRODUTOS/4.png",
+        "button_class": "buy-3"
+    },
+    {
+        "nome": "VANS",
+        "descricao": "Vans Slip-on sapato Converse Sneakers, autêntico.",
+        "valor": 100,
+        "img": "../VANS PRODUTOS/1.png",
+        "button_class": "buy-4"
+    },
+    {
+        "nome": "VANS",
+        "descricao": "Sapato de skate Vans.S",
+        "valor": 100,
+        "img": "../VANS PRODUTOS/2.png",
+        "button_class": "buy-4"
+    },
+    {
+        "nome": "VANS",
+        "descricao": "Sapato de skate Vans Converse Sneakers, autêntico.",
+        "valor": 100,
+        "img": "../VANS PRODUTOS/3.png",
+        "button_class": "buy-4"
+    },
+    {
+        "nome": "VANS",
+        "descricao": "Sapatilhas Vans Shoe Talla Clothing, sapatos masculinos.",
+        "valor": 100,
+        "img": "../VANS PRODUTOS/4.png",
+        "button_class": "buy-4"
+    },
+    {
+        "nome": "OLYMPIKUS",
+        "descricao": "Sapato Olympikus 12 mola.",
+        "valor": 100,
+        "img": "../OLYMPIKUS PRODUTOS/SAPATO 3.png",
+        "button_class": "buy-5"
+    },
+    {
+        "nome":"OLYMPIKUS",
+        "descricao":"Sapato Olympikus Modelo 5784.",
+        "valor": 100,
+        "img":"../OLYMPIKUS PRODUTOS/sapatinho4.png",
+        "button_class":"buy-5"
+    },
+    {
+        "nome": "OLYMPIKUS",
+        "descricao": "Sapato Olympikus Maschio Tribú.",
+        "valor": 100,
+        "img": "../OLYMPIKUS PRODUTOS/SAPATO.png",
+        "button_class": "buy-5"
+    },
+    {
+        "nome": "OLYMPIKUS",
+        "descricao": "Sapato Olympikus Legacy.",
+        "valor": 100,
+        "img": "../OLYMPIKUS PRODUTOS/sapato5.png",
+        "button_class": "buy-5"
+    }
+]

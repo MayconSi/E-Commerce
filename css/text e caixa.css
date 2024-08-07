@@ -1,0 +1,32 @@
+.text-promo{
+display: flex;
+justify-content: space-around;
+margin-top: 10px;
+color:#fff;
+padding-right: 58px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.decora{
+display: flex;    
+}
+
+.caixa{
+background-color: #000;
+}
+
+
+.textnov{
+    box-sizing: border-box;
+    text-align: center;
+    color: #5C636A;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+   
+}
+
+
+.parag{
+    display: flex;
+    justify-content: center;
+    color:#5C636A;  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+}

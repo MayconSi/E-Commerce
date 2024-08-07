@@ -1,0 +1,172 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#tamanho-header{
+  padding: 12px;
+}
+
+.barra{
+  width: 45vw;
+  margin-right: 20%;
+  display: flex;
+}
+.icons{
+  width: 25vw;
+}
+.espac{
+  margin-right: 50px;
+  margin-left: 40px;
+  position: relative;
+  bottom: 12px;
+  text-decoration: none;
+  font-size: 17px;
+  color: #fff;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.espac:hover{
+  color:#7743E5;
+}
+
+.menu{ 
+  display: none;
+  position: absolute;
+}
+
+span#burguer{
+  background-color: #5C636A;
+  color: #fff;  
+  position: relative;
+  top: 21%;
+}
+span#burguer:hover{
+  background-color: #000000;
+  color:#7743E5;
+  cursor:pointer;
+}
+
+span#pe:hover{
+  background-color: #000000;
+  color:#7743E5;
+  cursor:pointer;
+}
+span#pe{
+  background-color: #5C636A;
+  color: #fff;  
+  position: relative;
+  top: 21%;
+  margin-right: 1rem;
+}
+
+span#cart:hover{
+  background-color: #000000;
+  color:#7743E5;
+  cursor:pointer;
+}
+span#cart{
+  background-color: #5C636A;
+  color: #fff;  
+  position: relative;
+  top: 21%;
+  margin-right: 1rem;
+}
+
+.listamenu a{
+  color: #fff;
+  font-size: 15px;
+  margin-left: 5rem;
+  display: flex;
+  background-color: #5C636A;
+  bottom: 25px;
+  position: relative;
+  margin-left: 5.5rem;
+}
+.listamenu a:hover{
+  color: #7743E5;
+  background-color: #000;
+}
+
+nav#fixado{
+  position: sticky;
+  top: 0px;
+  z-index: 3;
+  padding: 0px;
+}
+.icons li{
+  display: inline;
+  
+}
+.textfooter{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-weight: 700;
+  padding-bottom: 7px;
+}
+
+.nomeUsuario {
+  font-weight: bold; 
+  color:  #7743E5; 
+  font-size: 15px; 
+  margin-right: 1px;
+}
+.nomeUsuario:hover{
+  color: #fff;
+  cursor: pointer;
+}
+
+
+@media (max-width: 768px) {
+  .navbar {
+      flex-direction: column;
+      padding: 10px;
+  }
+
+  .navbar-brand img {
+      width: 100%;
+  }
+
+  .barra {
+      width: 100%;
+      margin-bottom: 10px;
+  }
+
+  .icons, .marcas {
+      display: none;
+  }
+
+  #listamenu {
+      display: block; 
+  }
+
+  .listamenu {
+      padding: 0;
+      list-style-type: none;
+  }
+
+  .listamenu li {
+      margin-bottom: 10px;
+  }
+
+  .listamenu a {
+      color: #fff;
+      text-decoration: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .caixa {
+      padding: 10px;
+  }
+
+  .text-promo {
+      margin-bottom: 20px;
+  }
+  .decora {
+    margin-bottom: 15px; 
+}
+
+  .texnovidades {
+      margin-top: 40px;
+  }
+}

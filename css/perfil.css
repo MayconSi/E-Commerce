@@ -1,0 +1,94 @@
+@import url(../css/header.css);
+#decoracao{
+    text-decoration: none;
+}
+.listamenu > li > a{
+    text-decoration: none;
+}
+
+#seus-dados {
+  padding: 50px 0;
+  background-color: #f9f9f9;
+}
+
+#seus-dados h2, #seus-dados h3 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.profile-picture {
+  margin-bottom: 20px;
+}
+
+.profile-picture img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-info {
+  list-style: none;
+  padding: 0;
+}
+
+.profile-info li {
+  margin-bottom: 10px;
+}
+
+.profile-info li strong {
+  font-weight: bold;
+}
+
+.contact-info {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-info li {
+  margin-bottom: 10px;
+}
+
+.contact-info li a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+.address-list {
+  list-style: none;
+  padding: 0;
+}
+
+.address-list li {
+  margin-bottom: 20px;
+}
+
+.address-list li strong {
+  font-weight: bold;
+}
+
+.address-list li a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+.btn-edit-profile {
+  background-color: #337ab7;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.btn-edit-profile:hover {
+  background-color: #286090;
+}
+#redes-socias{
+  width: 20px;
+  height:20px;
+ margin-left: 8px;
+}
